@@ -1,0 +1,35 @@
+15:55:28.808 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+15:55:28.808 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+15:55:29.020 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - Entered Email
+15:55:29.103 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - Entered Email
+15:55:29.180 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - Entered Password
+15:55:29.212 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - Entered Password
+15:55:29.301 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - Login Clicked
+15:55:29.352 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - Login Clicked
+16:03:38.677 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:03:48.006 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+16:03:48.035 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+16:04:02.596 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+16:04:02.596 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+16:04:02.847 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - Entered Email
+16:04:02.919 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - Entered Email
+16:04:03.089 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - Entered Password
+16:04:03.134 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - Entered Password
+16:04:03.204 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - Login Clicked
+16:04:03.256 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - Login Clicked
+16:04:33.843 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+16:04:33.843 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+16:04:33.997 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - Entered Email
+16:04:34.074 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - Entered Email
+16:04:34.157 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - Entered Password
+16:04:34.202 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - Entered Password
+16:04:34.276 [TestNG-tests-2] INFO  testCases.TC_001_LoginTest - Login Clicked
+16:04:34.343 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - Login Clicked
+16:05:48.601 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+16:05:48.766 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - Entered Email
+16:05:48.858 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - Entered Password
+16:05:49.005 [TestNG-tests-1] INFO  testCases.TC_001_LoginTest - Login Clicked
+17:47:58.371 [main] INFO  testCases.TC_001_LoginTest - *** Starting TC_001_LoginTest ***
+17:47:58.675 [main] INFO  testCases.TC_001_LoginTest - Entered Email
+17:47:58.751 [main] INFO  testCases.TC_001_LoginTest - Entered Password
+17:47:58.895 [main] INFO  testCases.TC_001_LoginTest - Login Clicked
